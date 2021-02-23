@@ -1,0 +1,15 @@
+﻿target_sources (project2 PRIVATE "main.cpp"
+	                             "Menu.cpp"
+							 	"BaseObject.cpp"
+						 		"Files.cpp"
+								"Button.cpp"
+					 			"Colission.cpp"
+				 				"GameController.cpp"
+								"Chicken.cpp"
+								"Spaceship.cpp"
+				 				"Boss.cpp"
+								"InGameInfo.cpp"
+								"Audio.cpp"
+								"Board.cpp"
+								"RotatingObjects.cpp")
+						
