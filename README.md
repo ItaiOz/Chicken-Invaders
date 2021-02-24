@@ -1,5 +1,5 @@
 # Chicken-Invaders
-OOP 2 project C++ SFML
+OOP 2 project through SFML multimedia library
 
 Project has programmed in C++, we created a replica of the classic game "Chicken Invaders" that we developed ourselves.
 
@@ -11,7 +11,7 @@ Developing is based on obtained subjects which achieved during the semester:
 - Move Semantics
 - Smart Pointers
 
-## Menu Screen - There is an option wheter to play as a single player or with two players. Both players keys are controlled from the keyboard.
+## Menu Screen - There is an option whether to play as a single player or with two players. Both players keys are controlled from the keyboard.
 
 ![c1](https://user-images.githubusercontent.com/72853162/108995754-39205100-76a6-11eb-971e-7d2f3a9acbcc.JPG)
 ![c2](https://user-images.githubusercontent.com/72853162/108995761-3aea1480-76a6-11eb-9c0b-be5ae0e12289.JPG)
