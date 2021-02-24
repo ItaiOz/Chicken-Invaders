@@ -6,8 +6,7 @@ Project has programmed in C++, we created a replica of the classic game "Chicken
 **Challenges - The abillity to work in a team. Working under studies pressure.**
 
 Developing is based on obtained subjects which achieved during the semester:
-
--Iterators
+- Iterators
 - Various Databases
 - Move Semantics
 - Smart Pointers
